@@ -10,5 +10,5 @@
 ## 実行方法
 
 ```bash
-python kakeibo_bootcamp.py
+python kakeibo.py
 
